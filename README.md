@@ -16,7 +16,7 @@ This is my personal portfolio website, originally built in early 2022 using **HT
 ## 📂 Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Saqibali2/Animated-Portfolio-Website
    ```
 2. Open `index.html` in a browser to preview the website.
 
