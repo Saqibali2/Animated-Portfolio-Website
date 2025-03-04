@@ -2,6 +2,10 @@
 
 This is my personal portfolio website, originally built in early 2022 using **HTML, CSS, and JavaScript**. It features **smooth animations, interactive elements, and a modern UI** that showcases my skills and projects. Now live via GitHub Pages!
 
+![Portfolio Preview](https://your-image-link.com/image.png)
+![Portfolio Preview](img/portfolioPortfoliopng.png)
+
+
 ## 📌 Features
 - ✨ Eye-catching animations & transitions
 - 📱 Responsive design for mobile & desktop
